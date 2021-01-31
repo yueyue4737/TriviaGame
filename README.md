@@ -1,2 +1,2 @@
-# TriviaGame
-A trivia Game with Typescript and GraphQL
+# trivia-game
+A trivia game with Typescript and GraphQL
