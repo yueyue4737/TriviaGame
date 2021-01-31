@@ -7,10 +7,10 @@
 1. list
 
 # todo
-1. git ingore
-2. _.js * 2
-3. why next
-4. css
+1. api * 3
+2. why typescript
+3. routing-dynamically
+4. mockup
 
 <div className={styles.grid}>
   <a href="https://nextjs.org/docs" className={styles.card}>

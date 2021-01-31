@@ -1,4 +1,4 @@
-import styles from "./Home.module.css";
+import styles from "./main.module.css";
 import Link from "next/link";
 import Button from "@material-ui/core/Button";
 
