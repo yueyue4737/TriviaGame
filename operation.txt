@@ -2,15 +2,13 @@
 1. npx create-next-app . --use-npm
 2. npm i typescript @types/node @types/react --save-dev
 3. npm i @material-ui/core
+4. npm i @apollo/client graphql apollo-server
 
 # resources
-1. list
+1. Next.js Mastery Playlist - https://www.youtube.com/watch?v=62H1PEasNc0&list=PLYxzS__5yYQmpzsVeR7-KnX2li19KZhxE&index=1
+2. Why should you use typescript? https://serokell.io/blog/why-typescript
+3. What is Sass CSS? https://mobiosolutions.medium.com/what-is-sass-css-advantages-disadvantages-of-using-sass-css-61a753d63a01 
 
-# todo
-1. api * 3
-2. why typescript
-3. routing-dynamically
-4. mockup
 
 <div className={styles.grid}>
   <a href="https://nextjs.org/docs" className={styles.card}>

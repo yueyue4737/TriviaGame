@@ -20,6 +20,18 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Why TypeScript?
 
+### FE & BE
+
+1. Typescript is compiled to JavaScript.
+2. TS could be used both the frontend and backend.
+
+### reliable & explicit
+
+1. easy to refactor
+2. large-scale system
+
+### interchangeable to JavaScript
+
 ## Why Next.js?
 
 ### Rendering
@@ -51,3 +63,5 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 1. global styles
 2. CSS modules
+
+## What is the GraphQl API?

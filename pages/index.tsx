@@ -3,7 +3,8 @@ import styles from "./main.module.css";
 import Link from "next/link";
 import Button from "@material-ui/core/Button";
 
-export default function Home() {
+export default function Home(props) {
+  console.log(props.score);
   return (
     <div className={styles.container}>
       <Head>
