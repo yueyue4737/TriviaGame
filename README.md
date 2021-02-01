@@ -61,3 +61,10 @@ yarn dev
 2. CSS modules
 
 ## What is the GraphQl API?
+
+1. ask for exactly what they need and nothing more
+
+## What's next?
+
+1. I want the data point to be more specific
+2. I want to use serverless rendering
